@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+set (CMAKE_CXX_STANDARD 11)
+project(AdapterPattern)
+include_directories("include")
+file(GLOB SOURCE "src/*.cpp")
+add_executable(${PROJECT_NAME} ${SOURCE})
