@@ -7,5 +7,4 @@ public:
   virtual void ShowImage() = 0;
 };
 
-
 #endif
