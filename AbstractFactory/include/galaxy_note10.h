@@ -1,5 +1,5 @@
-#ifndef GALAXY_NOTE10_H_
-#define GALAXY_NOTE10_H_
+#ifndef ABSTRACT_FACTORY_GALAXY_NOTE10_H_
+#define ABSTRACT_FACTORY_GALAXY_NOTE10_H_
 
 #include "smartphone.h"
 #include <string>

@@ -1,5 +1,5 @@
-#ifndef SMARTPHONE_H_
-#define SMARTPHONE_H_
+#ifndef ABSTRACT_FACTORY_SMARTPHONE_H_
+#define ABSTRACT_FACTORY_SMARTPHONE_H_
 
 #include <string>
 

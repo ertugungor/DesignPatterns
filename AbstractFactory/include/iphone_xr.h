@@ -1,5 +1,5 @@
-#ifndef IPHONE_XR_H_
-#define IPHONE_XR_H_
+#ifndef ABSTRACT_FACTORY_IPHONE_XR_H_
+#define ABSTRACT_FACTORY_IPHONE_XR_H_
 
 #include "smartphone.h"
 #include <string>

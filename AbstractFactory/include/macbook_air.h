@@ -1,5 +1,5 @@
-#ifndef MACBOOK_AIR_H_
-#define MACBOOK_AIR_H_
+#ifndef ABSTRACT_FACTORY_MACBOOK_AIR_H_
+#define ABSTRACT_FACTORY_MACBOOK_AIR_H_
 
 #include "notebook.h"
 

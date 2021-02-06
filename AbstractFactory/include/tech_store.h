@@ -1,5 +1,5 @@
-#ifndef TECH_STORE_H_
-#define TECH_STORE_H_
+#ifndef ABSTRACT_FACTORY_TECH_STORE_H_
+#define ABSTRACT_FACTORY_TECH_STORE_H_
 
 #include "tech_factory.h"
 #include "samsung_factory.h"
