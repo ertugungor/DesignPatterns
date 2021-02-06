@@ -1,5 +1,5 @@
-#ifndef NOTEBOOK_H_
-#define NOTEBOOK_H_
+#ifndef ABSTRACT_FACTORY_NOTEBOOK_H_
+#define ABSTRACT_FACTORY_NOTEBOOK_H_
 
 #include <string>
 

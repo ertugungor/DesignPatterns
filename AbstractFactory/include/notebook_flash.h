@@ -1,5 +1,5 @@
-#ifndef NOTEBOOK_FLASH_H_
-#define NOTEBOOK_FLASH_H_
+#ifndef ABSTRACT_FACTORY_NOTEBOOK_FLASH_H_
+#define ABSTRACT_FACTORY_NOTEBOOK_FLASH_H_
 
 #include "notebook.h"
 

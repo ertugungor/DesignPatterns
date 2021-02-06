@@ -1,5 +1,5 @@
-#ifndef GALAXY_A50_H
-#define GALAXY_A50_H
+#ifndef ABSTRACT_FACTORY_GALAXY_A50_H
+#define ABSTRACT_FACTORY_GALAXY_A50_H
 
 #include "smartphone.h"
 #include <string>

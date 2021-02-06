@@ -1,5 +1,5 @@
-#ifndef TECH_FACTORY_H_
-#define TECH_FACTORY_H_
+#ifndef ABSTRACT_FACTORY_TECH_FACTORY_H_
+#define ABSTRACT_FACTORY_TECH_FACTORY_H_
 
 #include "smartphone.h"
 #include "notebook.h"

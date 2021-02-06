@@ -1,5 +1,5 @@
-#ifndef APPLE_FACTORY_H_
-#define APPLE_FACTORY_H_
+#ifndef ABSTRACT_FACTORY_APPLE_FACTORY_H_
+#define ABSTRACT_FACTORY_APPLE_FACTORY_H_
 
 #include "tech_factory.h"
 

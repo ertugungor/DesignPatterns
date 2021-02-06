@@ -1,5 +1,5 @@
-#ifndef NOTEBOOK_PRO_H_
-#define NOTEBOOK_PRO_H_
+#ifndef ABSTRACT_FACTORY_NOTEBOOK_PRO_H_
+#define ABSTRACT_FACTORY_NOTEBOOK_PRO_H_
 
 #include "notebook.h"
 
